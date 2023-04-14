@@ -1,0 +1,6 @@
+## Interface: 100007
+## Title: Gelily
+## SavedVariables: spells, auras
+## Notes: Lua rotation assistant for BM Hunter
+## Version: 0.1
+Gelily.lua
